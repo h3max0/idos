@@ -1,7 +1,4 @@
-commands 
-cd idos
-chmod +x *
-./idos www.example.com 80
+
 
 idos
 
