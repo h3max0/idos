@@ -1,3 +1,8 @@
+commands 
+cd idos
+chmod +x *
+./idos www.example.com 80
+
 idos
 
 idos - Most powerful dos tool bY h3max0.tech
